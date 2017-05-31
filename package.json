@@ -1,0 +1,14 @@
+{
+  "name": "nightstart",
+  "version": "1.0.0",
+  "description": "Basic setup for start using Nightwatch.js",
+  "scripts": {
+    "test": "node_modules/.bin/nightwatch"
+  },
+  "author": "Daniel Lucas",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^0.9.15",
+    "selenium-download": "^2.0.10"
+  }
+}
